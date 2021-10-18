@@ -1,0 +1,7 @@
+cURL==7.68.0
+docker==20.10.7
+docker-compose==1.25.0
+golang-go==1.13.8
+node==16.11.1
+npm==8.0.0
+python==2.7.18
